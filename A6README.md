@@ -1,0 +1,34 @@
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312">
+<title>网页特效|http://Linkweb.cn/Js|---很恶心的常见整人效果</title>
+</head>
+<body>
+<a href="" onMouseover="alert('为什么把鼠标放到这里?');
+alert('我不是说过不可以这样吗？');
+alert('你把我的话当什么了？');
+alert('你知道错了吗？');
+alert('什么？你居然....');
+alert('居然还没意识到自己做错了？');
+alert('那好，你要为此付出代价!');
+alert('我要你在这里点足一千下......');
+alert('什么？你开始有点后悔了？');
+alert('何必呢？');
+alert('你当初干什么去了？');
+alert('不原谅你！');
+alert('好从现在开始再点995下......');
+alert('你的手开始累了吗?');
+alert('什么？你已经没力气了？');
+alert('你一直在求我原谅你啊！');
+alert('看来你是真的知道错了!');
+alert('下次你还会这么做吗？');
+alert('真的不会了？');
+alert('那好，今天就放你一马！');
+alert('写封信给我说声对不起!');
+alert('你能这么做我很高兴!!!');
+document.bgColor='black';
+document.fgColor='White';
+window.location.href='mailto:mygod@god?subject=对不起,下次不敢了!';">不许把鼠标移到这里</a>
+嘻试吧爽噢。。
+</body>
+</html>
